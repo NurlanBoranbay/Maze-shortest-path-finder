@@ -27,6 +27,10 @@ Ensure that your maze image is stored in the expected directory.
 
 ## 📸 Example Output
 The script will display the original maze alongside the solved maze with the path highlighted.
+![image](https://github.com/user-attachments/assets/14a0fb74-b35a-46cc-8878-ff0e53fa2130)
+![image](https://github.com/user-attachments/assets/aaf80983-ad99-4e0f-8515-22f66aa9d056)
+
+
 
 ## 🏗️ Technologies Used
 - **Python** 🐍
